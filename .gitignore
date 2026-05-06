@@ -1,0 +1,12 @@
+.*
+!/.gitignore
+!/.readthedocs.yaml
+*.pyc
+*.egg-info/
+
+*.xdmf
+*.h5
+
+docs/_build/
+results/input/
+input/
