@@ -1,4 +1,4 @@
-# PVade
+# PVad
 
 `PVade` is an open source fluid-structure interaction model which can be used to study wind loading and stability on solar-tracking PV arrays. `PVade` can be used as part of a larger modeling chain to provide stressor inputs to mechanical module models to study the physics of failure for degradation mechanisms such as cell cracking, weathering of cracked cells, and glass breakage. For more information, visit the [PVade Documentation](https://pvade.readthedocs.io/en/latest/index.html).
 
